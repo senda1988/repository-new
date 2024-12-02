@@ -1,3 +1,3 @@
 # Senda
 
-Name: Senda
+Name: Senda Zidi
